@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 3093963 */
+    src: url('iconfont.woff2?t=1646806803305') format('woff2'),
+         url('iconfont.woff?t=1646806803305') format('woff'),
+         url('iconfont.ttf?t=1646806803305') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .icon-rili:before {
+    content: "\e8b4";
+  }
+  
+.icon-yyicon1:before {
+  content: "\e60d";
+}
+.icon-bijibendiannao_o:before {
+  content: "\eb49";
+}
